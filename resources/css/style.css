@@ -1,0 +1,42 @@
+.navbar {
+    height: 90px;
+
+    background: rgb(194, 174, 238) !important;
+
+}
+
+body {
+    background: rgb(194, 174, 238);
+    background: radial-gradient(circle, rgba(194, 174, 238, 1) 17%, rgba(126, 213, 162, 1) 100%);
+}
+
+.animes {
+    text-shadow: 10px 5px 10px rgb(68, 61, 61);
+    font-size: 150px;
+    margin-top: 10%;
+}
+
+.btn {
+
+    background-color: rgb(135, 99, 218);
+
+}
+
+.card {
+
+    width: 20rem;
+    height: 32rem;
+    background-color: rgb(170, 189, 224);
+    border: 3px solid white;
+    box-shadow: 10px 10px 20px rgb(95, 93, 93);
+
+}
+
+.img-card {
+
+    width: 300px;
+    height: 300px;
+opacity: 0.8;
+    margin-top: 10px;
+    margin-left: 7px;
+}
